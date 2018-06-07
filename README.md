@@ -3,9 +3,9 @@
 
 ## Dependencies
 
-* [ReactJs (https://reactjs.org/) 
-* [NodeJs] (https://nodejs.org/en/)
-* [npm] (https://www.npmjs.com/package/download)
+* [ReactJs](https://reactjs.org/) 
+* [NodeJs](https://nodejs.org/en/)
+* [npm](https://www.npmjs.com/package/download)
 
 ## features
 In this game you can undo the steps you taken so that you get better future view of any step taken
