@@ -13,6 +13,13 @@ In this game you can undo the steps you taken so that you get better future view
 ## To Run
  ### $npm start    
           It will start the node on the port 3000 and you can access app using url http://localhost:3000 
+     if this not work then
+     run following command
+     $npm install -g create-react-app
+     $create-react-app my-app
+     and empty the src folder and replace the src of ths repository
+     and run 
+     $npm start
   
 ## screenshots of game
   ![image](https://github.com/param087/tic-tac-toe-using-ReactJs/blob/master/images/tic-tac-toe1.png)
