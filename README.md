@@ -11,7 +11,8 @@
 In this game you can undo the steps you taken so that you get better future view of any step taken
 
 ## To Run
- ### $npm start    
+ ### $npm install
+ ### $npm run server    
           It will start the node on the port 3000 and you can access app using url http://localhost:3000 
      if this not work then
      run following command
