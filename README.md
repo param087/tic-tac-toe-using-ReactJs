@@ -13,7 +13,7 @@ In this game you can undo the steps you taken so that you get better future view
 ## To Run
  ### $npm install
  ### $npm start    
-          It will start the node on the port 3000 and you can access app using url http://localhost:3000 
+     It will start the node on the port 3000 and you can access app using url http://localhost:3000 
      if this not work then
      run following command
      $npm install -g create-react-app
